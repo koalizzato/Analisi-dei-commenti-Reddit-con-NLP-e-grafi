@@ -8,5 +8,5 @@ I principali strumenti usati includono:
 - BERT per l’estrazione di entità
 - grafi per rappresentare le discussioni tra utenti e rilevare community.
 
-Il progetto include report, notebook e dati.
+Il progetto include report e notebook
 
